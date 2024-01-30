@@ -1,0 +1,9 @@
+#+AUTHOR: Sarah Stoltze
+#+EMAIL: sstoltze@gmail.com
+#+DATE: 2024-01-08
+#+OPTIONS: toc:nil title:nil author:nil email:nil date:nil creator:nil
+* Document sections
+
+A bit of elisp for working with document sections.
+
+This is essentially a copy of [[https://github.com/eahanson/document-sections.novaextension]], which contains more and better documentation.
